@@ -1,0 +1,21 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 14px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 3em;
+}
+
+.container {
+  justify-content: center;
+  margin: 20px;
+}
